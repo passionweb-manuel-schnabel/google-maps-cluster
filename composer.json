@@ -1,0 +1,31 @@
+{
+  "name": "passionweb/google-maps-cluster",
+  "license": "GPL-3.0",
+  "description": "Adds a plugin for generating a Google Maps cluster based on specific records. (TYPO3 CMS)",
+  "type": "typo3-cms-extension",
+  "homepage": "https://www.passionweb.de",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Manuel Schnabel",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^8.0",
+    "typo3/cms-core": "^11.5 | ^12.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Passionweb\\GoogleMapsCluster\\": "Classes/"
+    }
+  },
+  "replace": {
+      "typo3-ter/google-maps-cluster": "self.version"
+  },
+  "extra": {
+    "typo3/cms": {
+      "extension-key": "google_maps_cluster"
+    }
+  }
+}

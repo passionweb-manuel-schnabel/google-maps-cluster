@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:google_maps_cluster/Resources/Private/Language/locallang_db" date="2023-05-19T13:34:38Z" product-name="google_maps_cluster">
+		<header/>
+		<body>
+			<trans-unit id="plugin_google_maps_cluster_clustermap.name" resname="plugin_google_maps_cluster_clustermap.name">
+				<source>Google Maps Cluster</source>
+			</trans-unit>
+			<trans-unit id="plugin_google_maps_cluster_clustermap.description" resname="plugin_google_maps_cluster_clustermap.description">
+				<source>Adds a Google Maps cluster map</source>
+			</trans-unit>
+			<trans-unit id="extConf.googleMapsApiKey" resname="extConf.googleMapsApiKey">
+                <source>Google Maps API key</source>
+            </trans-unit>
+            <trans-unit id="tx_googlemapscluster_domain_model_marker" resname="tx_googlemapscluster_domain_model_marker">
+                <source>Google Maps Cluster Marker</source>
+            </trans-unit>
+            <trans-unit id="tx_googlemapscluster_domain_model_marker.lat" resname="tx_googlemapscluster_domain_model_marker.lat">
+                <source>Latitude</source>
+            </trans-unit>
+            <trans-unit id="tx_googlemapscluster_domain_model_marker.lon" resname="tx_googlemapscluster_domain_model_marker.lon">
+                <source>Longitude</source>
+            </trans-unit>
+            <trans-unit id="tx_googlemapscluster_domain_model_marker.title" resname="tx_googlemapscluster_domain_model_marker.title">
+                <source>Title</source>
+            </trans-unit>
+		</body>
+	</file>
+</xliff>

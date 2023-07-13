@@ -1,0 +1,8 @@
+# cat=Google Maps; type=string; label=Google Maps API Key:
+mapsApiKey =
+# cat=Google Maps; type=int+; label=Zoom level:
+mapsZoom = 3
+# cat=Google Maps; type=string; label=Central marker latitude:
+centralMarkerLat = 50.024
+# cat=Google Maps; type=string; label=Central marker longitude:
+centralMarkerLon = 11.887

@@ -1,0 +1,4 @@
+/**
+ * Init google map
+ */
+initMap();

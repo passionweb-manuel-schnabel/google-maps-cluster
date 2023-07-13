@@ -1,4 +1,4 @@
-# Generate QR Code
+# Google Maps Cluster
 
 Simple plugin for adding a google maps cluster (TYPO3 CMS)
 
